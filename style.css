@@ -1,0 +1,29 @@
+ul,body {
+    font-size: xx-large;
+    background-color: bisque;
+    
+}
+
+h1 {
+    margin-left: 25px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:black;
+
+}
+
+* a:hover {
+    font-weight: bolder;
+    color: blueviolet;
+}

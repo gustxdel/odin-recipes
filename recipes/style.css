@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+    font-family: verdana, sans-serif;
+    max-width: fit-content;
+}
+
+h2 {
+    text-decoration: underline;
+    font-weight: lighter;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.home {
+    background-color: azure;
+    position:relative;
+    left: 50%;
+}
